@@ -1,4 +1,4 @@
-# debug_print
+# print_debug
 ### Version: 1.0.0
 A new Flutter package to avoid print on release mode
 ```sh

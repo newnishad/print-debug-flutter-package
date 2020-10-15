@@ -1,8 +1,8 @@
-library debug_print;
+library print_debug;
 
 import 'package:flutter/foundation.dart';
 
-void debugPrint(String text) {
+void printDebug(String text) {
   if (!kReleaseMode) {
     print(text);
   }
