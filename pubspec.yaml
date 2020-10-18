@@ -1,9 +1,9 @@
 name: print_debug
 description: A flutter package to avoid printing in release mode
-version: 1.0.0
+version: 1.0.1
 author: Foyez Ahmed
 homepage: hellonishad.com
-repository: https://github.com/nisadrahman/debug-print-flutter-package
+repository: https://github.com/nisadrahman/print-debug-flutter-package
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
